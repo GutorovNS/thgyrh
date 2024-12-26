@@ -1,0 +1,21 @@
+﻿<Window x:Class="GradeApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Оценки студентов" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical" Margin="10">
+            <TextBlock Text="Введите фамилию и имя студента:" FontSize="16"/>
+            <TextBox Name="txtLastName" Margin="0,5" MinWidth="150" />
+            <TextBox Name="txtFirstName" Margin="0,5" MinWidth="150" />
+
+            <ComboBox Name="cbDiscipline" Margin="0,20,0,5" MinWidth="150">
+                <ComboBoxItem Content="Математика" />
+                <ComboBoxItem Content="Физика" />
+                <ComboBoxItem Content="Информатика" />
+            </ComboBox>
+
+            <Button Name="btnAddGrade" Click="BtnAddGrade_Click" Content="Выставить оценку" Margin="0,5" />
+            <Button Name="btnViewGrades" Click="BtnViewGrades_Click" Content="Посмотреть оценки" Margin="0,5" />
+        </StackPanel>
+    </Grid>
+</Window>

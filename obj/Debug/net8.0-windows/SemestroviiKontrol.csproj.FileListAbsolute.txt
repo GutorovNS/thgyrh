@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\SemestroviiKontrol\SemestroviiKontrol\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\SemestroviiKontrol\SemestroviiKontrol\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\SemestroviiKontrol\SemestroviiKontrol\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Desktop\SemestroviiKontrol\SemestroviiKontrol\obj\Debug\net8.0-windows\SemestroviiKontrol_MarkupCompile.cache
+C:\Users\admin\Desktop\SemestroviiKontrol\SemestroviiKontrol\obj\Debug\net8.0-windows\SemestroviiKontrol.g.resources
+C:\Users\admin\Desktop\SemestroviiKontrol\SemestroviiKontrol\obj\Debug\net8.0-windows\SemestroviiKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SemestroviiKontrol\SemestroviiKontrol\obj\Debug\net8.0-windows\SemestroviiKontrol.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SemestroviiKontrol\SemestroviiKontrol\obj\Debug\net8.0-windows\SemestroviiKontrol.AssemblyInfo.cs
+C:\Users\admin\Desktop\SemestroviiKontrol\SemestroviiKontrol\obj\Debug\net8.0-windows\SemestroviiKontrol.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SemestroviiKontrol\SemestroviiKontrol\obj\Debug\net8.0-windows\SemestroviiKontrol.sourcelink.json
